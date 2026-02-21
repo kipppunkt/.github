@@ -10,7 +10,7 @@ We build upon decades of battle-tested practices. Requirements engineering, feed
 
 What changed is the middle. The part between "here's what I want" and "here's a PR for you to review." That part is now automatable. Fully. No TUI or IDE. No pair-programming with a chatbot.
 
-That's what kipp•punkt does. Requirements go in. Features come out. You stay with the tools you already trust.
+That's what kipp•punkt does. Requirements go in. Features come out. You stay in control with the tools you already trust.
 
 ## Projects
 
