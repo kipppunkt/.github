@@ -1,6 +1,6 @@
 # kipp•punkt
 
-> From **Kipppunkt** (German: *tipping point*). Because software engineering is at one.
+> From **Kipppunkt** (German: *tipping point*).
 
 Software engineering just went through a paradigm shift. A brutal one. Many developers haven't even noticed yet. The ones who have are sitting in a terminal, chatting with an AI, watching it type. They think that's the revolution.
 
