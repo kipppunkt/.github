@@ -6,7 +6,7 @@ Software engineering just went through a paradigm shift. A brutal one. Many deve
 
 It's not.
 
-We build upon decades of battle-tested practices. Requirements, code review, CI. None of that needs to be replaced.
+We build upon decades of battle-tested practices. Requirements engineering, feedback loops, CI. None of that needs to be replaced.
 
 What changed is the middle. The part between "here's what I want" and "here's a PR for you to review." That part is now automatable. Fully. No TUI or IDE. No pair-programming with a chatbot.
 
